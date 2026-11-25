@@ -1,5 +1,11 @@
 # Ramen Rush — Tokyo Noodle Bar
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Sasikianlarasati/ramen-rush/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Sasikianlarasati/ramen-rush/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
+Entry for make.fun's **"Make the best cooking game"** bounty ([$250 in USDC, 10 places paid](https://make.fun/bounty/best-cooking-game-20261125-0137)).
+
 A complete, original cooking game that plays offline in a desktop browser from its
 own static files. Run a tiny Tokyo ramen bar through a 150-second dinner shift:
 take orders from the board, boil noodles, ladle broth, add toppings, fry gyoza and
